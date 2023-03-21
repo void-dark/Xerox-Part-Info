@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "xerox-part-inventory",
+  "private_key_id": "6c3999d8969df0274a87b8c27540e39a78d9b321",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXfMVXavBOdIcG\nWxuESOtx0JWc7T8hKwdIJonFtfNH6Bj8tCjHEDooPard6jQPqwEzsHSad3zOQdle\nZ2CEHK0sTWA9c7BJKpICf6fEMR249ile+UyJYbE6xIqhtxks4CQMj+VeGIm7cD1Y\nPjEfgAYfVaoxTvIokdAhtP2z2c/K+xxePIGnvjbufF0R+XUVSHFdtVCyY1snsVOL\n0FU0vYL2bbf+KlpdU4mueqw2qtU5seFureXqlq3SN8637tJ5WbCyV1Cl8zBix0yN\nIbmuOy/TO7xaVPSuflN46n8/nfYDJyFh62xL4nyM3W8mZxDglwgN3kEvUOx9Hybk\nQIvLdtcPAgMBAAECggEAFo7gF3WXZaTI60OLlEYu4rVuuhNtgwO/I1mIdZZz16wy\ndbBhoXcDT1++KdVI6GEMyO+IsEHae3UR0z2DVq5V2VLdDHma8YzzI4fH6e7DICUZ\nTF5vrRuM7T/m7FBG4Z2vsJEy/4aZkqhoR34yCXX33hhUbjWf2OERxHCJFmGj0Elx\nXen2DsjE+ezM7A11AP6QRmDK5ZAuuoW1BNZ6h8dAIs624MvxgLmX8JGMx+kF/DnE\n2whsYyJwrYuunFkPnP/flyXRHVd6ATtCoGZ2pEjaGls8j0lonNCTZ5Tr+uqVpQIA\n0L5mQmlFeGS4/Dc2sgcGstDRevPCvPP994Kq+0rkeQKBgQDTQ3bihkDjgkPc7Mzu\nZdOX5QdtyVP8TBmXRNYcq3lMnDjI7Kd6aek2mJ7rBZFdwxZnfbh/EkWs51rbF0aH\nFeRUW3pa/bHr+s2t14Do1q/yZZt4RbWPSZ60T0AhnxzNi+hGzmHR19Txw7pVTshJ\nbzz01CrP/hRT9N9kQz+HRoMf9wKBgQC3kNvSugKE/KU8NFfqk7/kNv9fWU25eFDk\nI7wx6Qo5k81wvGuNIf763AErYQM1FygM1eJt9gUIWaJ7O1dtafN+Yzdh3ieIlNVJ\n0KGkF8SkcG/iOO/cN86LIXSDw3BrrYhZ310NkUzs7owZ396IhiOacygik9KJL3dO\n313NzinrqQKBgCmNSWLAeR7GTkazpJL3ICjt+QoU4RnsddQUy/AToeX5jAmo0j/3\neNEuL4OWMsM4Tb3JMnJ7y4x4bJxO9aY4HhKhc21WHJqHV9DrZAVnxG9uoKeFPnKS\nTk60j66NNwMOk37ptL+rLcznbEy/FBGteVXGLS1/kcv5i76So3od2kh9AoGAJT/1\nC68JYdku4qewi36N+w6aBcxGdHOQ3qrNvscOdx6iGtVxccNLTbalWhsmnnhjfS9N\n8ohw/v/Jc/5XwHE2oxgZHfgJx7KEEaWPl4/nLINQgPSS3/pHJH6WeUKIpqEhQTON\nW3p3xMCnl3yRWNz3jpj9tP6QQ5xpNo0nKONEKHkCgYAmUQRxRMLupFN3PS47ryfT\n2Av8aiW9w4rcnwjrR4zHHIQHElRCeO2G6Jg5E4FQM1PS10L070QvQFhqksbCSgJS\nB5Qcg86CqTsP3W6vOpG7d5MNh+7RtDx+8M5SpINDn0gI2G4W+iYdgZgB1BH9LvKR\nmIYNj5TwAqWNa+Y3rWe4Dg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wilbee@xerox-part-inventory.iam.gserviceaccount.com",
+  "client_id": "106133314140716284370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wilbee%40xerox-part-inventory.iam.gserviceaccount.com"
+}
